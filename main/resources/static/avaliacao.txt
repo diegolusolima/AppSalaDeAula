@@ -1,0 +1,4 @@
+0;Diego Luiz de Souza Lima;5ano;4;18
+A;Portugues;8;Pronome obliquo;Aula Invertida
+P;Matemática;pontos;8;6
+C;Geografia;2;Participou da Aula;true
